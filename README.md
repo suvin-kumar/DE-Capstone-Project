@@ -72,7 +72,7 @@ Capstone DAG
 
 Clone the repo from github by running:
 
-$ git clone git@github.com/suvin-kumar/DE-Capstone-Project
+$ git clone https://github.com/suvin-kumar/DE-Capstone-Project.git
 
 Once cloned, create a virtualenv on your local machine that will be your local development environment:
 
